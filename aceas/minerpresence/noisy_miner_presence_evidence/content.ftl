@@ -171,7 +171,7 @@ There is no data for this region
 </@compress>
 <br>
 <p class="citation">
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/au/deed.en_US">
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/au/88x31.png" />
 </a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
 Avifaunal disarray from a single despotic species</span>
