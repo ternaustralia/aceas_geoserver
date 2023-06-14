@@ -177,6 +177,6 @@ There is no data for this region
 Avifaunal disarray from a single despotic species</span>
  by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=84&Itemid=86" property="cc:attributionName" rel="cc:attributionURL">
  Maron M., Grey M.J., Catterall C.P., Major R.E., Oliver D.L., Clarke M.F., Loyn R.H., Mac Nally R., Davidson I., Thomson J.R.</a> 
- is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/au/deed.en_US">
+ is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
  Creative Commons Attribution 3.0 Australia License</a>.
 </p>

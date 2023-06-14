@@ -52,7 +52,7 @@
 	<p class="citation">
 		<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png"/></a><br/><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
 		Transforming of Australia's vegetated landscapes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://aceas.org.au/index.php?option=com_content&view=article&id=70&Itemid=74" property="cc:attributeName" rel="cc:attributionURL" target="_blank">Richard Thackway</a> 
-		is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/au/" target="_blank">Creative Commons Attribution 3.0 Australia</a>.<br /> Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=70&Itemid=74" rel="dct:source" target="_blank">www.aceas.org.au</a>
+		is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 3.0 Australia</a>.<br /> Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=70&Itemid=74" rel="dct:source" target="_blank">www.aceas.org.au</a>
 </p>
 </div>	
 <#recover>
