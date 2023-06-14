@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--489cca96:16fc0c5f91e:-56d8</id>
+  <name>Fire_Regime_niches</name>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1917c8b9:16fb10eccd5:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">ISO-8859-1</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">GMT</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">aceas</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:data/aceas/Fire_regime_niche_map</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

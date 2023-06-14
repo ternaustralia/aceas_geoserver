@@ -1,0 +1,15 @@
+<layer>
+  <name>noisy_miner_presence_evidence</name>
+  <id>LayerInfoImpl--489cca96:16fc0c5f91e:-56d1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--489cca96:16fc0c5f91e:-56d0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--489cca96:16fc0c5f91e:-56d2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

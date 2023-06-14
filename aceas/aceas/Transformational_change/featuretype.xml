@@ -1,0 +1,55 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-1917c8b9:16fb10eccd5:-7fe5</id>
+  <name>Transformational_change</name>
+  <nativeName>meyerdata</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1917c8b9:16fb10eccd5:-7ffe</id>
+  </namespace>
+  <title>Transformational change of regional landscapes</title>
+  <abstract>The Information provided is the output of the ACEAS Working Group led by Wayne Meyer, and the team of fourteen people focussed on the future of Australia&apos;s agricultural landscapes under the various projections of future change, from peak phosphorus to the effects of global climate change. They applied some new approaches to the evaluation of these risks, the result of which is presented in this report.</abstract>
+  <keywords>
+    <string>features</string>
+    <string>meyerdata</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;NAD83&quot;, 
+  DATUM[&quot;North American Datum 1983&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6269&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4269&quot;]]</nativeCRS>
+  <srs>EPSG:4269</srs>
+  <nativeBoundingBox>
+    <minx>112.921493530273</minx>
+    <maxx>153.63835144043</maxx>
+    <miny>-43.8604011535645</miny>
+    <maxy>-9.14128971099854</maxy>
+    <crs>EPSG:4269</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>112.921493530273</minx>
+    <maxx>153.63835144043</maxx>
+    <miny>-43.8604011535645</miny>
+    <maxy>-9.14128971099854</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-1917c8b9:16fb10eccd5:-7ffd</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

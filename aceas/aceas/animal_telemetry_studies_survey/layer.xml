@@ -1,0 +1,15 @@
+<layer>
+  <name>animal_telemetry_studies_survey</name>
+  <id>LayerInfoImpl-1917c8b9:16fb10eccd5:-7fe0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--489cca96:16fc0c5f91e:-7de5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1917c8b9:16fb10eccd5:-7fe1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

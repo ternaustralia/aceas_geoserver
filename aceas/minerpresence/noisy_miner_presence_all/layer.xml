@@ -1,0 +1,16 @@
+<layer>
+  <name>noisy_miner_presence_all</name>
+  <id>LayerInfoImpl--489cca96:16fc0c5f91e:-56cd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--489cca96:16fc0c5f91e:-56d0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--489cca96:16fc0c5f91e:-56ce</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateModified>2023-02-07 20:59:44.424 UTC</dateModified>
+</layer>

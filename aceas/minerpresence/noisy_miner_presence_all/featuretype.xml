@@ -1,0 +1,54 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--489cca96:16fc0c5f91e:-56ce</id>
+  <name>noisy_miner_presence_all</name>
+  <nativeName>Change trends intersect w miner dist_Final</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1917c8b9:16fb10eccd5:-7ffe</id>
+  </namespace>
+  <title>Noisy miners presence</title>
+  <keywords>
+    <string>features</string>
+    <string>Change trends intersect w miner dist_Final</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GDA94&quot;, 
+  DATUM[&quot;Geocentric Datum of Australia 1994&quot;, 
+    SPHEROID[&quot;GRS 1980&quot;, 6378137.0, 298.257222101, AUTHORITY[&quot;EPSG&quot;,&quot;7019&quot;]], 
+    TOWGS84[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6283&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4283&quot;]]</nativeCRS>
+  <srs>EPSG:4283</srs>
+  <nativeBoundingBox>
+    <minx>137.85253714969485</minx>
+    <maxx>153.63833999995907</maxx>
+    <miny>-43.52960463219665</miny>
+    <maxy>-15.236696755548586</maxy>
+    <crs>EPSG:4283</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>137.85253714969485</minx>
+    <maxx>153.63833999995907</maxx>
+    <miny>-43.52960463219665</miny>
+    <maxy>-15.236696755548586</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--489cca96:16fc0c5f91e:-56d3</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
