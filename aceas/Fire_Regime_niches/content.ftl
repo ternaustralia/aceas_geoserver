@@ -67,7 +67,7 @@
 <@compress single_line=true>
 <#attempt> 
 <h2 class="headline"> Fire Regime Niche</h2>
-<a href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=75&Itemid=77" target="_blank"style="width: 600px;" class="hyperlinkline">Pyrogeography: integrating and evaluating models of Australian fire regimes to predict Climate change</a>
+<h3 class="subheadline"> Pyrogeography: integrating and evaluating models of Australian fire regimes to predict Climate change</h3>
 <div><p class="infotext" style="width: 600px;"> As part of this project, the group classified a continental-scale vegetation map <a href="http://www.environment.gov.au/erin/nvis/mvg/index.html#nvis31" target="_blank" class="hyperlinkline"> (National Vegetation Information Systems, version 3.1)</a>, defining classes based on typical fuel (e.g. litter, grass, shrubs) and fire types (e.g. surface, crown, ground). Classes were intersected with a broad climate classification to derive a map of twenty broad fire regimes. This interactive map shows the distribution of major fire regime niches throughout Australia.</p>
 <div>
 

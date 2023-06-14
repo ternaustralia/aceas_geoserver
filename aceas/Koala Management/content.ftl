@@ -78,8 +78,7 @@ table.featureInfo td {
 <#setting number_format="0.##">
 <#attempt> 
 <h2 class="headline"> Koala Conservation and Management</h2>
-<a href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=86&Itemid=88" class="hyperlinkline" target="_blank">
-Conserving Koalas in the 21st century: synthesizing the dynamics of Australia's Koala populations </a> 
+<h3 class="subheadline"> Conserving Koalas in the 21st century: synthesizing the dynamics of Australia's Koala populations</h3>
 <div class="infotext"><p style="width: 500px;">The working group developed koala population estimates and current trends in 
 those populations based on an expert elicitation method. The experts then developed a synthesis of these estimates using a 
 sliding window of the past and future three koala generations (15-21 years) in the eastern Australian states and bioregions 
@@ -178,7 +177,6 @@ sliding window of the past and future three koala generations (15-21 years) in t
 	<h3 class="subheadline">More information on the study</h3>
 	<ol>
 	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=smguru.116" target="_blank" class="hyperlinkline">View detailed metadata on the study</a> </li>
-	<li class="list"> <a href="http://aceas.org.au/conserving_koalas_report.pdf" target="_blank" class ="hyperlinkline">working group final report</a> </li>
 	</ol>
 	</div>
 <#recover>

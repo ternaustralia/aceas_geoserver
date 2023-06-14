@@ -21,8 +21,7 @@
 <#setting number_format="0.##">
 <#attempt> 
 <h2 class="headline"> Avifaunal disarray from a single despotic species</h2>
-<a href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=84&Itemid=86" class="hyperlinkline" target="_blank">
-Beating the bullies: managing aggressive Manorinas to restore bird assemblages </a> 
+<h3 class="subheadline"> Beating the bullies: managing aggressive Manorinas to restore bird assemblages</h3>
 <div class="infotext"><p style="width: 500px;">The working group developed conceptual models of factors 
 affecting site occupancy by, and ecosystem-level effects of, the noisy miner. The analysis of recent 
 trends in reporting rate (proportion of surveys in which the species was detected) 
@@ -163,7 +162,6 @@ change is greater then 90%.</p>
 	<h3 class="subheadline">More information on the study</h3>
 	<ol>
 	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=aceasdata.22" target="_blank" class="hyperlinkline">View detailed metadata on the study</a> </li>
-	<li class="list"> <a href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=84&Itemid=86#Products%20and%20outcomes" target="_blank" class ="hyperlinkline">working group final report and other outcomes</a> </li>
 	<li class="list"> <a href="/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=aceas:noisy_miner_presence_all&maxFeatures=500&outputFormat=SHAPE-ZIP" target="_blank" class="hyperlinkline">Download data as Shapefile</a></li>
 	</ol>
 	</div>

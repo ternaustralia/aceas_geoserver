@@ -24,13 +24,13 @@
 				</div>
 			</td>
 			<td>
-			<img src="http://aceas.tern.org.au/geoserver/www/regiontrans/images/legend.jpg" hspace="20" vspace="20" style="border:0px solid #000; vertical-align:middle; text-align:right; float:right;" width="200" height="130"; /> <br>
+			<img src="/geoserver/www/aceas/regiontrans/images/legend.jpg" hspace="20" vspace="20" style="border:0px solid #000; vertical-align:middle; text-align:right; float:right;" width="200" height="130"; /> <br>
 			</td>
 		</tr>
 		<tr>
 			<td>
 			<div style="width:300px;height:200px;">
-				<img src="http://aceas.tern.org.au/geoserver/www/regiontrans/images/${feature.regionname.value}_RCP_2_web.jpg" style="border:0px solid #000; width:300px;height:200px;"/> 
+				<img src="/geoserver/www/aceas/regiontrans/images/${feature.regionname.value}_RCP_2_web.jpg" style="border:0px solid #000; width:300px;height:200px;"/> 
 			</div>
 				<div style="text-align: justify; width: 250px; margin-bottom:10px; font-size:9px;">
 				<p style="font-size:10px;font-weight:bold">Predicted change from 2011-2100 under RCP<sup><a href="#fn1" id="ref1">1</a></sup>2.6</p>
@@ -49,7 +49,7 @@
 			</td>
 			<td>
 			<div style="width:300px;height:200px;">
-				<img src="http://aceas.tern.org.au/geoserver/www/regiontrans/images/${feature.regionname.value}_RCP_4_web.jpg" style="border:0px solid #000;width:300px;height:200px;"/> 
+				<img src="/geoserver/www/aceas/regiontrans/images/${feature.regionname.value}_RCP_4_web.jpg" style="border:0px solid #000;width:300px;height:200px;"/> 
 			</div>
 				<div style="text-align: justify; width: 250px; margin-bottom:10px; font-size:9px;">
 				<p style="font-size:10px;font-weight:bold">Predicted change from 2011-2100 under RCP<sup><a href="#fn1" id="ref1">1</a></sup>4.5</p>
@@ -70,7 +70,7 @@
 		<tr>
 			<td>
 				<div style="width:300px;height:200px;">
-				<img src="http://aceas.tern.org.au/geoserver/www/regiontrans/images/${feature.regionname.value}_RCP_6_web.jpg" style="border:0px solid #000;width:300px;height:200px;"/> 
+				<img src="/geoserver/www/aceas/regiontrans/images/${feature.regionname.value}_RCP_6_web.jpg" style="border:0px solid #000;width:300px;height:200px;"/> 
 				</div>
 				<div style="text-align:justify; width:250px; margin-bottom:10px; font-size:9px;">
 				<p style="font-size:10px;font-weight:bold">Predicted change from 2011-2100 under RCP<sup><a href="#fn1" id="ref1">1</a></sup> 6.0</p>
@@ -89,7 +89,7 @@
 			</td>
 			<td>
 				<div style="width:300px;height:200px;">
-				<img src="http://aceas.tern.org.au/geoserver/www/regiontrans/images/${feature.regionname.value}_RCP_8_web.jpg" style="border:0px solid #000;width:300px;height:200px;"/> 
+				<img src="/geoserver/www/aceas/regiontrans/images/${feature.regionname.value}_RCP_8_web.jpg" style="border:0px solid #000;width:300px;height:200px;"/> 
 				</div>
 				<div style="text-align:justify; width:250px; margin-bottom:10px; font-size:9px;">
 				<p style="font-size:10px;font-weight:bold">Predicted change from 2011-2100 under RCP<sup><a href="#fn1" id="ref1">1</a></sup>8.5</p>
@@ -113,7 +113,6 @@
 		<ol class="infotext">
 		<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=smguru.94" target="_blank">View metadata and data related to the study</a></li>
 		<li class="list"> <a href="/geoserver/www/aceas/regiontrans/docos/${feature.regionname.value}_scenarios.xlsx" target="_blank">Sustainability indicator scores for ${feature.region.value} region</a>
-		<li class="list"><a href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=79&Itemid=81" target="_blank">Information about the working group including report</a>
 		</ol>
 	</div>
 	

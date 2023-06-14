@@ -26,9 +26,6 @@
 		<li class="list"> 
 		<a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=${features?first.doc_id.value}" target="_blank" class="hyperlinkline">View metadata and data for this site</a>
 	         </li>
-		<li class="list"> 
-		<a href="/geoserver/www/aceas/vegetation/pdfs/${features[0].aceas_graph_url.value}.pdf" target="_blank" class="hyperlinkline">Chronology of land use and management and effects on vegetation condition and ecological functions</a>
-		</li>
 		<li class="list">
 		<a href="/geoserver/www/aceas/vegetation/xls/${features[0].aceas_graph_url.value}.xlsx" target="_blank" class="hyperlinkline"> Site-based scores for 22 vegetation condition indicators </a>
 		</li>

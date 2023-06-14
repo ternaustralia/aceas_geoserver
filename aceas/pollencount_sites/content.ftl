@@ -65,7 +65,6 @@ The data is available as an average weekly pollen count.</p>
 	<h3 class="subheadline">More information:</h3>
 	<ol class="infotext">
 	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat/${feature.metadata.value}/html" target="_blank">View detailed metadata about the datasets and download options</a> </li>
-	<li class="list"> <a href="http://aceas.org.au/index.php?option=com_content&view=article&id=113&Itemid=114" target="_blank">Information about the working group including report</a> </li>
 	</ol>
 	</div>	
 		</#list>
