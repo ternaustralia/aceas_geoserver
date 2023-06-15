@@ -64,7 +64,30 @@ The data is available as an average weekly pollen count.</p>
 	<div align="left">
 	<h3 class="subheadline">More information:</h3>
 	<ol class="infotext">
-	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat/${feature.metadata.value}/html" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#--  <li class="list"> <a href="http://aceas.tern.org.au/knb/metacat/${feature.metadata.value}/html" target="_blank">View detailed metadata about the datasets and download options</a> </li>  -->
+	<#if feature.metadata.value == "aceasdata.15">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/41da6ecb-6a99-4b9f-92c0-00e15679fc53" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.17">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/f18a4e0c-ac03-45be-b4fe-f0f32516d51e" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.19">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/8c03e4bd-fcc0-41d0-858f-6adf63699c81" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.21">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/d8c3bf73-acb0-4b75-9f2a-9077215ba257" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.23">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/716c7809-6e6c-4b1c-890c-d9a05c7212b0" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.25">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/9ed85108-6f82-492e-b694-de1f073f89cb" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.27">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/b6633694-0d20-4375-a91d-83ecb6407e0b" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.29">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/5017247d-f8dd-475d-a2de-7876cb22e5e8" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.30">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/d672ede3-bfdd-474f-8a3d-d1d7b8f8569c" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.32">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/8501dc3b-0384-4ea7-847d-dd5755f5e3b9" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	<#elseif feature.metadata.value == "aceasdata.37">
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/6e2eeff6-96f4-47fa-a396-5f6f2f0d171b" target="_blank">View detailed metadata about the datasets and download options</a> </li>
+	</#if>
 	</ol>
 	</div>	
 		</#list>
