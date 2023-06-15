@@ -107,7 +107,7 @@
 <div align="left">
 <h3 class="subheadline">More information:</h3>
 <ol>
-	<li class="list"><a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=aceasdata.42" target="_blank" class="hyperlinkline">View detailed metadata about the dataset</a></li>
+	<li class="list"><a href="https://portal.tern.org.au/metadata/TERN/abd43890-c85e-4a60-9c27-d85ced2d81eb" target="_blank" class="hyperlinkline">View detailed metadata about the dataset</a></li>
 	<li class="list"><a href="/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=aceas:${type.name}&maxFeatures=50&outputFormat=SHAPE-ZIP" target="_blank" class="hyperlinkline">Download data in Shapefile format</a></li>
 	<li class="list"><a href="/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=aceas:${type.name}&maxFeatures=50&outputFormat=GML2" target="_blank" class="hyperlinkline">Download data in GML2 format</a></li>
 </ol>
