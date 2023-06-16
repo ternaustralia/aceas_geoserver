@@ -111,7 +111,7 @@
 	<div align="left">
 	<h3 class="subheadline">More information:</h3>
 	<ol class="infotext">
-	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=aceasdata.7" target="_blank">View detailed metadata about the datasets</a> </li>
+	<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/0a01fb47-f4ef-43f0-8102-be5b80c0352a" target="_blank">View detailed metadata about the datasets</a> </li>
 	<li class="list"> <a href="/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=aceas:animal_telemetry_studies_survey&maxFeatures=700&outputFormat=csv">Download the entire survey data</a> </li>
 	<!--li class="list"> <a href="http://aceas.tern.org.au/telemetry_data_entry/" target="_blank">If you want to add any animal telemetry studies  project to this database, please click this link</a> </lii-->
 	</ol>
