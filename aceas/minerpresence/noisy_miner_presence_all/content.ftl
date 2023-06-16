@@ -161,7 +161,7 @@ change is greater then 90%.</p>
 	<div align="left">
 	<h3 class="subheadline">More information on the study</h3>
 	<ol>
-	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=aceasdata.22" target="_blank" class="hyperlinkline">View detailed metadata on the study</a> </li>
+	<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/b4e72dff-ce73-409c-8516-3dfaa02bdc3c" target="_blank" class="hyperlinkline">View detailed metadata on the study</a> </li>
 	<li class="list"> <a href="/geoserver/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=aceas:noisy_miner_presence_all&maxFeatures=500&outputFormat=SHAPE-ZIP" target="_blank" class="hyperlinkline">Download data as Shapefile</a></li>
 	</ol>
 	</div>

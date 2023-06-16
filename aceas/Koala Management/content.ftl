@@ -176,7 +176,7 @@ sliding window of the past and future three koala generations (15-21 years) in t
 	<div align="left">
 	<h3 class="subheadline">More information on the study</h3>
 	<ol>
-	<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=smguru.116" target="_blank" class="hyperlinkline">View detailed metadata on the study</a> </li>
+	<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/826f2e2f-5fac-4fd2-9ef3-ac9d173a1bc6" target="_blank" class="hyperlinkline">View detailed metadata on the study</a> </li>
 	</ol>
 	</div>
 <#recover>
