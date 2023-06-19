@@ -1,0 +1,17 @@
+<layer>
+  <name>Australian_Aerobiology_Monitoring_Sites</name>
+  <id>LayerInfoImpl-711d2608:18845f9efe9:-4ecf</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--489cca96:16fc0c5f91e:-7de5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-711d2608:18845f9efe9:-4ed0</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-06-19 03:48:59.221 UTC</dateCreated>
+  <dateModified>2023-06-19 04:02:07.166 UTC</dateModified>
+</layer>

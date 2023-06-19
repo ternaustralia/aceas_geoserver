@@ -111,7 +111,7 @@
 	<div align="left">
 		<h3 class="subheadline">More information:</h3>
 		<ol class="infotext">
-		<li class="list"> <a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=smguru.94" target="_blank">View metadata and data related to the study</a></li>
+		<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/050338c5-1003-4951-af2e-12b290865d1a" target="_blank">View metadata and data related to the study</a></li>
 		<li class="list"> <a href="/geoserver/www/aceas/regiontrans/docos/${feature.regionname.value}_scenarios.xlsx" target="_blank">Sustainability indicator scores for ${feature.region.value} region</a>
 		</ol>
 	</div>
