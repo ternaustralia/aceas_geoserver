@@ -67,6 +67,7 @@ The data is available as an average weekly pollen count.</p>
 	<li class="list"> <a href="https://portal.tern.org.au/metadata/TERN/${feature.metadata.value}" target="_blank">View detailed metadata about the datasets and download options</a> </li>
 	</ol>
 	</div>	
+			<#assign var_link = feature.metadata.value>
 		</#list>
 <#recover>
 There is no data at this point
@@ -74,6 +75,6 @@ There is no data at this point
 </@compress>
 <br>
 <p class="citation" style="width:500px;">
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/au/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type"><a href="https://portal.tern.org.au/metadata/TERN/${feature.metadata.value}" target="_blank"> All the work undertaken from Australian Aerobiology Working Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/au/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia License</a>. Please see the detail metadata for attribution statement.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/au/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type"><a href="https://portal.tern.org.au/metadata/TERN/${var_link}" target="_blank"> All the work undertaken from Australian Aerobiology Working Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/au/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia License</a>. Please see the detail metadata for attribution statement.
 </p>
 </html>
