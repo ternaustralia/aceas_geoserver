@@ -24,7 +24,7 @@
 		<h3 class="subheadline"> More Information about this site: </h3>
 		<ol class="infotext">
 		<li class="list"> 
-		<a href="http://aceas.tern.org.au/knb/metacat?action=read&qformat=html&docid=${features?first.doc_id.value}" target="_blank" class="hyperlinkline">View metadata and data for this site</a>
+		<a href="https://portal.tern.org.au/metadata/TERN/${features?first.doc_id.value}" target="_blank" class="hyperlinkline">View metadata and data for this site</a>
 	         </li>
 		<li class="list">
 		<a href="/geoserver/www/aceas/vegetation/xls/${features[0].aceas_graph_url.value}.xlsx" target="_blank" class="hyperlinkline"> Site-based scores for 22 vegetation condition indicators </a>
@@ -51,7 +51,7 @@
 	
 	<p class="citation">
 		<a rel="license" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png"/></a><br/><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
-		Transforming of Australia's vegetated landscapes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://aceas.org.au/index.php?option=com_content&view=article&id=70&Itemid=74" property="cc:attributeName" rel="cc:attributionURL" target="_blank">Richard Thackway</a> 
+		Transforming of Australia's vegetated landscapes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://portal.tern.org.au/metadata/TERN/050338c5-1003-4951-af2e-12b290865d1a" property="cc:attributeName" rel="cc:attributionURL" target="_blank">Richard Thackway</a> 
 		is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0</a>.<br /> Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://www.aceas.org.au/index.php?option=com_content&view=article&id=70&Itemid=74" rel="dct:source" target="_blank">www.aceas.org.au</a>
 </p>
 </div>	
