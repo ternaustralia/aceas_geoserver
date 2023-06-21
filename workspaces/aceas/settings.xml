@@ -39,7 +39,7 @@
   <charset>UTF-8</charset>
   <numDecimals>8</numDecimals>
   <onlineResource>http://geoserver.org</onlineResource>
-  <proxyBaseUrl>https://geoserver.tern.org.au/geoserver</proxyBaseUrl>
+  <proxyBaseUrl>https://geoserver-test.tern.org.au/geoserver</proxyBaseUrl>
   <verbose>false</verbose>
   <verboseExceptions>true</verboseExceptions>
   <metadata>
