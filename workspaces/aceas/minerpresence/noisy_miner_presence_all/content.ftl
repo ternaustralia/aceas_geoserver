@@ -178,5 +178,5 @@ Avifaunal disarray from a single despotic species</span>
  by <a xmlns:cc="http://creativecommons.org/ns#" href="https://portal.tern.org.au/metadata/TERN/b4e72dff-ce73-409c-8516-3dfaa02bdc3c" property="cc:attributionName" rel="cc:attributionURL">
  Maron M., Grey M.J., Catterall C.P., Major R.E., Oliver D.L., Clarke M.F., Loyn R.H., Mac Nally R., Davidson I., Thomson J.R.</a> 
  is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
- Creative Commons Attribution 3.0 Australia License</a>.
+ Creative Commons Attribution 4.0 License</a>.
 </p>
